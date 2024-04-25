@@ -1,0 +1,988 @@
+{
+  "paints": [
+    {
+      "name": "Sunset Red",
+      "company":"vallejo",
+      "range": "Model",
+      "hexCode": "#c22c5f"
+    },
+    {
+      "name": "Brown Rose",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#cf8774"
+    },
+    {
+      "name": "Beige Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#c79166"
+    },
+    {
+      "name": "German Orange",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f05426"
+    },
+    {
+      "name": "Blue Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#1a9496"
+    },
+    {
+      "name": "Royal Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#41558d"
+    },
+    {
+      "name": "Royal Purple",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#4b2967"
+    },
+    {
+      "name": "Blue Violet",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#795c9a"
+    },
+    {
+      "name": "Violet Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#6b2946"
+    },
+    {
+      "name": "Luftwaffe Uniform WW2",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#3d474f"
+    },
+    {
+      "name": "Scarlet",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#da3630"
+    },
+    {
+      "name": "Red Leather",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#93453d"
+    },
+    {
+      "name": "Iraqi Sand",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#b89972"
+    },
+    {
+      "name": "Luftwaffe Cam. Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#596b3f"
+    },
+    {
+      "name": "German Cam. Medium Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#722b2f"
+    },
+    {
+      "name": "Lime Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#6fae4e"
+    },
+    {
+      "name": "Amaranth Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#cc4338"
+    },
+    {
+      "name": "Salmon Rose",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f89d87"
+    },
+    {
+      "name": "London Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#4a555e"
+    },
+    {
+      "name": "Pale Sand",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d1c49c"
+    },
+    {
+      "name": "Emerald",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#00906a"
+    },
+    {
+      "name": "Light Turquoise",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#0094a5"
+    },
+    {
+      "name": "Andrea Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#008dc9"
+    },
+    {
+      "name": "Cork Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#a57b63"
+    },
+    {
+      "name": "Deep Sky Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#00a6da"
+    },
+    {
+      "name": "Sunny Skintone",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f4b171"
+    },
+    {
+      "name": "Mahogany Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#804b47"
+    },
+    {
+      "name": "Dark Sand",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d6b779"
+    },
+    {
+      "name": "Medium Olive",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#226b2e"
+    },
+    {
+      "name": "Bright Orange",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f26833"
+    },
+    {
+      "name": "Ochre Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#a77237"
+    },
+    {
+      "name": "Golden Olive",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#78923b"
+    },
+    {
+      "name": "Ice Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#feef87"
+    },
+    {
+      "name": "Medium Fleshtone",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#c08245"
+    },
+    {
+      "name": "Glossy Black",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#010101"
+    },
+    {
+      "name": "Grey Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#565a60"
+    },
+    {
+      "name": "Dark Blue Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#4b5751"
+    },
+    {
+      "name": "Dark Sea Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#2f4844"
+    },
+    {
+      "name": "Medium Sea Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#869393"
+    },
+    {
+      "name": "Leather Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#4a4639"
+    },
+    {
+      "name": "Chocolate Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#5f5047"
+    },
+    {
+      "name": "Tan Earth",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#9c7962"
+    },
+    {
+      "name": "Brown Sand",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#b08064"
+    },
+    {
+      "name": "Gold Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#ba8636"
+    },
+    {
+      "name": "Middlestone",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#9c9660"
+    },
+    {
+      "name": "Silver Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d8dfd5"
+    },
+    {
+      "name": "Olive Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#39584f"
+    },
+    {
+      "name": "USA Olive Drab",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#3b4947"
+    },
+    {
+      "name": "Reflective Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#496244"
+    },
+    {
+      "name": "US Dark Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#5b6955"
+    },
+    {
+      "name": "German Cam. Extra Dark Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#30504a"
+    },
+    {
+      "name": "Bronce Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#2a534f"
+    },
+    {
+      "name": "French Mirage Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#557880"
+    },
+    {
+      "name": "Blue Grey Pale",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#9ea7a5"
+    },
+    {
+      "name": "Pale Grey Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#bacdd0"
+    },
+    {
+      "name": "Vermillion",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d22b2d"
+    },
+    {
+      "name": "Orange Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#e34c26"
+    },
+    {
+      "name": "Light Orange",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f68627"
+    },
+    {
+      "name": "Yellow Ochre",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#c19448"
+    },
+    {
+      "name": "Deep Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#ffe30c"
+    },
+    {
+      "name": "Sand Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d7bf75"
+    },
+    {
+      "name": "Ivory",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#eff1d9"
+    },
+    {
+      "name": "English Uniform",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#715833"
+    },
+    {
+      "name": "Uniform Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#577a38"
+    },
+    {
+      "name": "Russian Uniform WW2",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#606d53"
+    },
+    {
+      "name": "Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#91323a"
+    },
+    {
+      "name": "Dark Flesh",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d9a262"
+    },
+    {
+      "name": "Light Flesh",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#feedd0"
+    },
+    {
+      "name": "Light Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#bf764e"
+    },
+    {
+      "name": "Saddle Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#89584f"
+    },
+    {
+      "name": "Burnt Umber",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#665148"
+    },
+    {
+      "name": "Light Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#00a850"
+    },
+    {
+      "name": "Grey Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#45708d"
+    },
+    {
+      "name": "Magenta",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#a92a56"
+    },
+    {
+      "name": "Dark Red",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#a24a46"
+    },
+    {
+      "name": "Dark Sand",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d1b47e"
+    },
+    {
+      "name": "White",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#ffffff"
+    },
+    {
+      "name": "Lemon Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#fef10e"
+    },
+    {
+      "name": "Yellow Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d9e02a"
+    },
+    {
+      "name": "Flat Flesh",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d8a977"
+    },
+    {
+      "name": "Clear Orange",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#f1552c"
+    },
+    {
+      "name": "Violet",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#4b2f65"
+    },
+    {
+      "name": "Sky Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#86d6f7"
+    },
+    {
+      "name": "Flat Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#336991"
+    },
+    {
+      "name": "Field Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#436872"
+    },
+    {
+      "name": "Prussian Blue",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#2a546e"
+    },
+    {
+      "name": "Turquoise",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#008e9c"
+    },
+    {
+      "name": "Park Green Flat",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#008c5d"
+    },
+    {
+      "name": "Deep Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#0a6b48"
+    },
+    {
+      "name": "Grey Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#aecbbb"
+    },
+    {
+      "name": "Light Sea Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#97b4b5"
+    },
+    {
+      "name": "Buff",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#d2ca9f"
+    },
+    {
+      "name": "Desert Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#b19151"
+    },
+    {
+      "name": "Dark Yellow",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#9d9059"
+    },
+    {
+      "name": "German Cam. Dark Green",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#2f4845"
+    },
+    {
+      "name": "Orange Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#b86f44"
+    },
+    {
+      "name": "Cavalry Brown",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#853f3d"
+    },
+    {
+      "name": "Flat Earth",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#87643c"
+    },
+    {
+      "name": "Light Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#949c9a"
+    },
+    {
+      "name": "Dark Sea Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#787d7a"
+    },
+    {
+      "name": "German Grey",
+      "company": "vallejo",
+      "range": "Model",
+      "hexCode": "#192f30"
+    },
+    {
+      "name": "Dead White",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#ffffff"
+    },
+    {
+      "name": "Elf Skintone",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#f8a070"
+    },
+    {
+      "name": "Moon Yellow",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#fff103"
+    },
+    {
+      "name": "Gold Yellow",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#fdb318"
+    },
+    {
+      "name": "Orange Fire",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#f1652e"
+    },
+    {
+      "name": "Hot Orange",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#e43027"
+    },
+    {
+      "name": "Bloody Red",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#bf282e"
+    },
+    {
+      "name": "Gory Red",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#810504"
+    },
+    {
+      "name": "Scarlet Red",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#741330"
+    },
+    {
+      "name": "Squid Pink",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#da7fb5"
+    },
+    {
+      "name": "Warlord Purple",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#7d1a44"
+    },
+    {
+      "name": "Royal Purple",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#23264f"
+    },
+    {
+      "name": "Magic Blue",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#024381"
+    },
+    {
+      "name": "Ultramarine Blue",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#373592"
+    },
+    {
+      "name": "Electric Blue",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#008cbf"
+    },
+    {
+      "name": "Turquoise",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#03676f"
+    },
+    {
+      "name": "Foul Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#239378"
+    },
+    {
+      "name": "Jade Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#128379"
+    },
+    {
+      "name": "Scurvy Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#09474e"
+    },
+    {
+      "name": "Dark Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#083c2a"
+    },
+    {
+      "name": "Sick Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#096638"
+    },
+    {
+      "name": "Goblin Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#23743c"
+    },
+    {
+      "name": "Camoflage Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#71753a"
+    },
+    {
+      "name": "Scorpion Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#48b851"
+    },
+    {
+      "name": "Livery Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#9ece65"
+    },
+    {
+      "name": "Bone White",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#e8be86"
+    },
+    {
+      "name": "Dead Flesh",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#bcb686"
+    },
+    {
+      "name": "Bronze Fleshtone",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#db945c"
+    },
+    {
+      "name": "Filthy Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#f58d2b"
+    },
+    {
+      "name": "Scrofulous Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#d68030"
+    },
+    {
+      "name": "Plague Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#cc9b34"
+    },
+    {
+      "name": "Leather Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#7b5d2a"
+    },
+    {
+      "name": "Dwarf Skin",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#cc7c67"
+    },
+    {
+      "name": "Parasite Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#b1481f"
+    },
+    {
+      "name": "Beasty Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#55432d"
+    },
+    {
+      "name": "Dark Fleshtone",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#4f2b26"
+    },
+    {
+      "name": "Charred Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#39343b"
+    },
+    {
+      "name": "Ghost Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#a7c5db"
+    },
+    {
+      "name": "Wolf Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#90a2bc"
+    },
+    {
+      "name": "Stonewall Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#828e95"
+    },
+    {
+      "name": "Cold Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#54646d"
+    },
+    {
+      "name": "Black",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#000000"
+    },
+    {
+      "name": "Earth",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#6f563d"
+    },
+    {
+      "name": "Terracota",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#6b1306"
+    },
+    {
+      "name": "Tan",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#9f4746"
+    },
+    {
+      "name": "Glacier Blue",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#acd0ee"
+    },
+    {
+      "name": "Verdigris",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#b3ceca"
+    },
+    {
+      "name": "Pale Yellow",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#d5c179"
+    },
+    {
+      "name": "Elfic Flesh",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#cdc29c"
+    },
+    {
+      "name": "Rosy Flesh",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#f89e84"
+    },
+    {
+      "name": "Offwhite",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#f5f4da"
+    },
+    {
+      "name": "Heavy Skintone",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#aa7b62"
+    },
+    {
+      "name": "Heavy Red",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#943238"
+    },
+    {
+      "name": "Heavy Violet",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#4c2e65"
+    },
+    {
+      "name": "Heavy Blue",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#29556d"
+    },
+    {
+      "name": "Heavy Blue Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#9ca7a7"
+    },
+    {
+      "name": "Heavy Grey",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#626d54"
+    },
+    {
+      "name": "Heavy Green",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#566840"
+    },
+    {
+      "name": "Heavy Khaki",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#9d965d"
+    },
+    {
+      "name": "Heavy Ochre",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#a87536"
+    },
+    {
+      "name": "Heavy Gold Brown",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#ba8636"
+    },
+    {
+      "name": "Heavy Orange",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#ee5527"
+    },
+    {
+      "name": "Heavy Charcoal",
+      "company": "vallejo",
+      "range": "Game",
+      "hexCode": "#1c2e2e"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "paints": [
+    {
+      "name": "Matt White",
+      "company":"Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#ffffff"
+    },
+    {
+      "name": "Pure Red",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#cf2127"
+    },
+    {
+      "name": "Dragon Red",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#9a1b1e"
+    },
+    {
+      "name": "Lava Orange",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#e65525"
+    },
+    {
+      "name": "Daemonic Yellow",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#fada06"
+    },
+    {
+      "name": "Necrotic Flesh",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#bfc292"
+    },
+    {
+      "name": "Army Green",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#6e7645"
+    },
+    {
+      "name": "Greenskin",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#136232"
+    },
+    {
+      "name": "Angel Green",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#0c391d"
+    },
+    {
+      "name": "Electric Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#508cbe"
+    },
+    {
+      "name": "Crystal Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#0083c2"
+    },
+    {
+      "name": "Ultramarine Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#0f4e85"
+    },
+    {
+      "name": "Ash Grey",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#a2a5a4"
+    },
+    {
+      "name": "Uniform Grey",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#5e6a73"
+    },
+    {
+      "name": "Monster Brown",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#855c2a"
+    },
+    {
+      "name": "Desert Yellow",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#c7952c"
+    },
+    {
+      "name": "Fur Brown",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#a14322"
+    },
+    {
+      "name": "Leather Brown",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#764823"
+    },
+    {
+      "name": "Skeleton Bone",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#d3c89d"
+    },
+    {
+      "name": "Barbarian Flesh",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#e89c6c"
+    },
+    {
+      "name": "Tanned Flesh",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#bc745e"
+    },
+    {
+      "name": "Chaotic Red",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#6c1e10"
+    },
+    {
+      "name": "Abomination Gore",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#6c1e10"
+    },
+    {
+      "name": "Babe Blonde",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#f8dd0d"
+    },
+    {
+      "name": "Basilisk Brown",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#cd8315"
+    },
+    {
+      "name": "Brainmatter Beige",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#f1f0e0"
+    },
+    {
+      "name": "Castle Grey",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#f1f0e0"
+    },
+    {
+      "name": "Cultist Robe",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#756e60"
+    },
+    {
+      "name": "Dark Sky",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#2b4b5f"
+    },
+    {
+      "name": "Drake Tooth",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#cfcbb4"
+    },
+    {
+      "name": "Elemental Bolt",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#009a82"
+    },
+    {
+      "name": "Elf Green",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#495122"
+    },
+    {
+      "name": "Elven Flesh",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#495122"
+    },
+    {
+      "name": "Filthy Cape",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#7c7863"
+    },
+    {
+      "name": "Fire Lizard",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#d67128"
+    },
+    {
+      "name": "Griffon Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#215383"
+    },
+    {
+      "name": "Hardened Carapace",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#4c473f"
+    },
+    {
+      "name": "Mars Red",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#b73b37"
+    },
+    {
+      "name": "Mouldy Clothes",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#447b3a"
+    },
+    {
+      "name": "Mythical Orange",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#e73d24"
+    },
+    {
+      "name": "Necromance Cloak",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#3c3d37"
+    },
+    {
+      "name": "Phoenix Flames",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#faa61a"
+    },
+    {
+      "name": "Poisonous Cloud",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#cdde4a"
+    },
+    {
+      "name": "Royal Cloak",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#15999c"
+    },
+    {
+      "name": "Scaly Hide",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#859852"
+    },
+    {
+      "name": "Voidshield Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#2ca2d9"
+    },
+    {
+      "name": "Sulphide Ochre",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#c68512"
+    },
+    {
+      "name": "Troglodyte Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#0889ba"
+    },
+    {
+      "name": "Troll Claws",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#cb8b4e"
+    },
+    {
+      "name": "Vampire Red",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#981d34"
+    },
+    {
+      "name": "Viking Blue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#00609a"
+    },
+    {
+      "name": "Werewolf Fur",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#785e4e"
+    },
+    {
+      "name": "Witch Brew",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#92963e"
+    },
+    {
+      "name": "Scar Tissue",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#ca8772"
+    },
+    {
+      "name": "Field Grey",
+      "company": "Army Painter",
+      "range": "Warpaints",
+      "hexCode": "#787c78"
+    }
+  ]
+}

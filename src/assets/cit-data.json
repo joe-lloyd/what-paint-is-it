@@ -1,0 +1,543 @@
+{
+  "paints": [
+    {
+      "name": "Ceramite White",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#ffffff"
+    },
+    {
+      "name": "White Scar",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#FFFFFF"
+    },
+    {
+      "name": "Averland Sunset",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#fbba00"
+    },
+    {
+      "name": "Yriel Yellow",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#ffda00"
+    },
+    {
+      "name": "Flash Gitz Yellow",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#ffee00"
+    },
+    {
+      "name": "Jokaero Orange",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#e6200f"
+    },
+    {
+      "name": "Troll Slayer Orange",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#eb641b"
+    },
+    {
+      "name": "Mephiston Red",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#9b0e05"
+    },
+    {
+      "name": "Evil Suns Scarlet",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#c00b0c"
+    },
+    {
+      "name": "Wild Rider Red",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#e21516"
+    },
+    {
+      "name": "Khorne Red",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#6a0a01"
+    },
+    {
+      "name": "Wazdakka Red",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#8d0d01"
+    },
+    {
+      "name": "Squig Orange",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#b04d3e"
+    },
+    {
+      "name": "Screamer Pink",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#831740"
+    },
+    {
+      "name": "Pink Horror",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#96325c"
+    },
+    {
+      "name": "Emperors Children",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#bd3f75"
+    },
+    {
+      "name": "Naggaroth Night",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#433656"
+    },
+    {
+      "name": "Xereus Purple",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#4b205c"
+    },
+    {
+      "name": "Genestealer Purple",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#7c5ca4"
+    },
+    {
+      "name": "Slaanesh Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#8E8C97"
+    },
+    {
+      "name": "Kantor Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#06234f"
+    },
+    {
+      "name": "Alaitoc Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#2e5689"
+    },
+    {
+      "name": "Hoeth Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#4f7fb5"
+    },
+    {
+      "name": "Macragge Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#14397a"
+    },
+    {
+      "name": "Caledor Sky",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#38689c"
+    },
+    {
+      "name": "Teclis Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#387bbf"
+    },
+    {
+      "name": "Lothern Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#3ba1d1"
+    },
+    {
+      "name": "Thousand Sons Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#18ABCC"
+    },
+    {
+      "name": "Ahriman Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#1F8C9C"
+    },
+    {
+      "name": "The Fang",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#457479"
+    },
+    {
+      "name": "Russ Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#55768a"
+    },
+    {
+      "name": "Fenrisian Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#789ebb"
+    },
+    {
+      "name": "Stegadon Scale Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#004261"
+    },
+    {
+      "name": "Sotek Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#056976"
+    },
+    {
+      "name": "Temple Guard Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#35998e"
+    },
+    {
+      "name": "Thunderhawk Blue",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#417074"
+    },
+    {
+      "name": "Incubi Darkness",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#094345"
+    },
+    {
+      "name": "Kabalite Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#008660"
+    },
+    {
+      "name": "Caliban Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#003b1d"
+    },
+    {
+      "name": "Warpstone Glow",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#257326"
+    },
+    {
+      "name": "Moot Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#57aa2d"
+    },
+    {
+      "name": "Waaagh! Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#275627"
+    },
+    {
+      "name": "Warboss Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#3b7d54"
+    },
+    {
+      "name": "Skarsnik Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#5e9067"
+    },
+    {
+      "name": "Castellan Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#384d20"
+    },
+    {
+      "name": "Death World Forest",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#666c2d"
+    },
+    {
+      "name": "Loren Forest",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#5b7426"
+    },
+    {
+      "name": "Straken Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#6e8611"
+    },
+    {
+      "name": "Nurgling Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#90a15f"
+    },
+    {
+      "name": "Elysian Green",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#81932e"
+    },
+    {
+      "name": "Ogryn Camo",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#a9af42"
+    },
+    {
+      "name": "Zandri Dust",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#a89758"
+    },
+    {
+      "name": "Ushabti Bone",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#c6c180"
+    },
+    {
+      "name": "Screaming Skull",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#d9d8a6"
+    },
+    {
+      "name": "Flayed One Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#f3ca8a"
+    },
+    {
+      "name": "Steel Legion Drab",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#695634"
+    },
+    {
+      "name": "Karak Stone",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#c1a069"
+    },
+    {
+      "name": "Bugmans Glow",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#8c5144"
+    },
+    {
+      "name": "Cadian Fleshtone",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#cb7953"
+    },
+    {
+      "name": "Kislev Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#dbad75"
+    },
+    {
+      "name": "Ratskin Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#AD6B4C"
+    },
+    {
+      "name": "Bestigor Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#D38A57"
+    },
+    {
+      "name": "Ungor Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#dbac63"
+    },
+    {
+      "name": "Mournfang Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#681104"
+    },
+    {
+      "name": "Skrag Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#954b00"
+    },
+    {
+      "name": "Deathclaw Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#ba6952"
+    },
+    {
+      "name": "XV-88",
+      "company": "citadel",
+      "range": "88Citadel",
+      "hexCode": ""
+    },
+    {
+      "name": "Tau Light Ochre",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#c26e02"
+    },
+    {
+      "name": "Rhinox Hide",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#4e3433"
+    },
+    {
+      "name": "Doombull Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#5e0605"
+    },
+    {
+      "name": "Tuskgor Fur",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#8e3734"
+    },
+    {
+      "name": "Dryad Bark",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#3b342e"
+    },
+    {
+      "name": "Gorthor Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#6e4e46"
+    },
+    {
+      "name": "Baneblade Brown",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#99826b"
+    },
+    {
+      "name": "Mechanicus Standard Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#454e50"
+    },
+    {
+      "name": "Dawnstone",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#7b7e74"
+    },
+    {
+      "name": "Administratum Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#9da299"
+    },
+    {
+      "name": "Celestra Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#9caeae"
+    },
+    {
+      "name": "Ulthuan Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#d2e4df"
+    },
+    {
+      "name": "Rakarth Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#aba495"
+    },
+    {
+      "name": "Pallid Wych Flesh",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#d6d5c4"
+    },
+    {
+      "name": "Abaddon Black",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#010100"
+    },
+    {
+      "name": "Eshin Grey",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#535659"
+    },
+    {
+      "name": "Skavenblight Dinge",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#4f4840"
+    },
+    {
+      "name": "Stormvermin Fur",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#7d736a"
+    },
+    {
+      "name": "Dark Reaper",
+      "company": "citadel",
+      "range": "Base Layer",
+      "hexCode": "#3B5150"
+    },
+    {
+      "name": "Blue Horror",
+      "company": "citadel",
+      "range": "Edge",
+      "hexCode": "#A2BAD2"
+    },
+    {
+      "name": "Dorn Yellow",
+      "company": "citadel",
+      "range": "Edge",
+      "hexCode": "#FFF200"
+    },
+    {
+      "name": "Krieg Khaki",
+      "company": "citadel",
+      "range": "Edge",
+      "hexCode": "#C0BD81"
+    },
+    {
+      "name": "Lugganath Orange",
+      "company": "citadel",
+      "range": "Edge",
+      "hexCode": "#F79E86"
+    }
+  ]}

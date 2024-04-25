@@ -1,0 +1,140 @@
+/* ColorMatcher.css */
+/* ColorMatcher.css */
+.container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* Now it will be 6 columns */
+  grid-template-rows: 200px 200px; /* 2 rows */
+  gap: 0 20px;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  /* Define the named areas */
+  grid-template-areas:
+    ". input input hex hex ."
+    "shadow shadow closest closest highlight highlight";
+}
+
+
+.input-area {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hex {
+  width: 180px;
+  height: 200px;
+  background-color: #ccc;
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
+}
+
+/* Input area spans 4 columns */
+.input-area {
+  grid-area: input;
+}
+
+.hex-input {
+  grid-area: hex;
+}
+
+.hex-shadow {
+  grid-area: shadow;
+}
+
+.hex-closest {
+  grid-area: closest;
+}
+
+.hex-highlight {
+  grid-area: highlight;
+}
+
+input[type="text"] {
+  font-size: 16px;
+  height: 20px;
+  display: block;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.space {
+  grid-column: 1 / 2;
+  background-color: transparent;
+}
+
+.input-area, .hex-shadow, .hex-closest, .hex-highlight {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+    grid-template-columns: repeat(4, 1fr); /* adjust grid columns for tablet */
+    grid-template-areas:
+      "input input input input"
+      "hex hex hex hex"
+      "shadow closest closest highlight";
+  }
+
+  .hex {
+    width: 100px; /* smaller hex sizes for smaller screens */
+    height: 115px; /* adjust height accordingly */
+  }
+
+  .input-area {
+    flex-direction: row; /* switch to row layout for the input area */
+    justify-content: space-around; /* space out elements */
+  }
+
+  input[type="text"] {
+    font-size: 14px; /* smaller font size */
+    margin-bottom: 10px; /* add margin below for stacking */
+  }
+
+  button {
+    padding: 8px 16px; /* smaller padding */
+    font-size: 14px; /* smaller font size */
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "input"
+      "hex"
+      "shadow"
+      "closest"
+      "highlight";
+  }
+
+  .hex {
+    width: 90%; /* relative width to the screen size */
+    margin: 0 auto; /* center the hexes */
+    height: 80%;
+  }
+
+  .input-area,
+  .hex-shadow,
+  .hex-closest,
+  .hex-highlight {
+    margin-bottom: 20px; /* add some space between stacked items */
+  }
+
+  input[type="text"], button {
+    width: 90%; /* input and button width */
+    margin: 0 auto; /* centering them */
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "paints": [
+    {
+      "name": "Sanguine Base",
+      "company": "P3",
+      "range": "Formula",
+      "hexCode": "#6c160f"
+    },
+    {
+      "name": "Skorne Red",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#b01f24"
+    },
+    {
+      "name": "Khador Red Base",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#ee2824"
+    },
+    {
+      "name": "Khador Red Highlight",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#f29042"
+    },
+    {
+      "name": "Ember Orange",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#de8a2b"
+    },
+    {
+      "name": "Heartfire",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#f6b046"
+    },
+    {
+      "name": "Cygnus Yellow",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#f3e72e"
+    },
+    {
+      "name": "Bloodstone",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#9e4822"
+    },
+    {
+      "name": "Bloodtracker Brown",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#a66a28"
+    },
+    {
+      "name": "Bootstrap Leather",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#956939"
+    },
+    {
+      "name": "Hammerfall Khaki",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#c8bf98"
+    },
+    {
+      "name": "Thornwood Green",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#65654b"
+    },
+    {
+      "name": "Gnarls Green",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#126232"
+    },
+    {
+      "name": "Iosan Green",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#22a854"
+    },
+    {
+      "name": "Ordic Olive",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#6e7e36"
+    },
+    {
+      "name": "Cygnar Blue Highlight",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#1f75bb"
+    },
+    {
+      "name": "Greatcoat Grey",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#4d5861"
+    },
+    {
+      "name": "Ironhull Grey",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#8e969b"
+    },
+    {
+      "name": "Coal Black",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#005a61"
+    },
+    {
+      "name": "Trollblood Base",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#13899b"
+    },
+    {
+      "name": "Murderous Magenta",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#a81f5e"
+    },
+    {
+      "name": "Beast Hide",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#b1956b"
+    },
+    {
+      "name": "Khardic Flesh",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#cb7b5b"
+    },
+    {
+      "name": "Midlund Flesh",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#f0a983"
+    },
+    {
+      "name": "Battledress Green",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#757232"
+    },
+    {
+      "name": "Rucksack Tan",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#b4973f"
+    },
+    {
+      "name": "Jack Bone",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#d6d4aa"
+    },
+    {
+      "name": "Menoth White Highlight",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#f3f4de"
+    },
+    {
+      "name": "Bastion Grey",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#777965"
+    },
+    {
+      "name": "Thrall Flesh",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#ced9ad"
+    },
+    {
+      "name": "Thamar Black",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#040707"
+    },
+    {
+      "name": "Morrow White",
+      "company":  "P3",
+      "range": "Formula",
+      "hexCode": "#FEFBFD"
+    }
+  ]
+}
