@@ -45,7 +45,6 @@ const ColorMatcher: React.FC = () => {
         <button onClick={findColor}>Find Closest Color</button>
       </div>
       {inputHex && <div className="hex hex-input" style={{ backgroundColor: inputHex, color: getTextColorBasedOnBg(inputHex) }}>{inputHex}</div>}
-      <div className="space"></div>
       {closestShadowPaint && (
         <div className="hex hex-shadow" style={{ backgroundColor: closestShadowPaint.hexCode, color: getTextColorBasedOnBg(closestShadowPaint.hexCode) }}>
           Shadow<br />
@@ -67,7 +66,6 @@ const ColorMatcher: React.FC = () => {
           {closestHighlightPaint.company}: {closestHighlightPaint.range}
         </div>
       )}
-      <div className="space"></div>
     </div>
   );
 };

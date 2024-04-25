@@ -69,11 +69,6 @@ button {
   cursor: pointer;
 }
 
-.space {
-  grid-column: 1 / 2;
-  background-color: transparent;
-}
-
 .input-area, .hex-shadow, .hex-closest, .hex-highlight {
   margin: 0;
   padding: 0;
@@ -81,31 +76,23 @@ button {
 
 @media (max-width: 768px) {
   .container {
-    grid-template-columns: repeat(4, 1fr); /* adjust grid columns for tablet */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
-      "input input input input"
-      "hex hex hex hex"
-      "shadow closest closest highlight";
+      "input input hex hex"
+      ". closest closest ."
+      "shadow shadow highlight highlight";
   }
 
-  .hex {
-    width: 100px; /* smaller hex sizes for smaller screens */
-    height: 115px; /* adjust height accordingly */
-  }
-
-  .input-area {
-    flex-direction: row; /* switch to row layout for the input area */
-    justify-content: space-around; /* space out elements */
-  }
 
   input[type="text"] {
-    font-size: 14px; /* smaller font size */
-    margin-bottom: 10px; /* add margin below for stacking */
+    font-size: 14px;
+    margin-bottom: 10px;
   }
 
   button {
-    padding: 8px 16px; /* smaller padding */
-    font-size: 14px; /* smaller font size */
+    padding: 8px 16px;
+    font-size: 14px;
   }
 }
 
@@ -113,17 +100,11 @@ button {
   .container {
     grid-template-columns: 1fr;
     grid-template-areas:
-      "input"
       "hex"
+      "input"
       "shadow"
       "closest"
       "highlight";
-  }
-
-  .hex {
-    width: 90%; /* relative width to the screen size */
-    margin: 0 auto; /* center the hexes */
-    height: 80%;
   }
 
   .input-area,
